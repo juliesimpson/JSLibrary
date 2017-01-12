@@ -24,3 +24,5 @@ for (var letter in favFood) {
 	}
 }
 console.log("There are " + vowelCount + " vowels in " + favFood);
+
+
